@@ -5,3 +5,4 @@
 "*.user" 
 "*.suo" 
 "packages/" 
+/.vs/CustomerManagementSystem
